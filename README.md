@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Swift-FF4154?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
@@ -35,24 +36,25 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
-
-<h3 align="center">☕ Java Stack ☕</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
-</div>
-
-
-
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
 </div>
+
+<h3 align="center">🔍 Object Oriented Design Patterns 🔍</h3>
+<div align="center">
+  <img src="https://img.icons8.com/ios/50/000000/class.png" alt="Class Icon"/>&nbsp
+  <img src="https://img.icons8.com/ios/50/000000/objects.png" alt="Objects Icon"/>&nbsp
+  <img src="https://img.icons8.com/ios/50/000000/puzzle.png" alt="Puzzle Icon"/>&nbsp
+</div>
+
+여기에 Object oriented design pattern에 대한 설명을 추가할 수 있습니다.
+
 
 
 <br>
