@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
 </div>
 
+
 <h3 align="center">🔍 Object Oriented Design Patterns 🔍</h3>
 <div align="center">
   <img src="https://img.icons8.com/ios/50/000000/class.png" alt="Class Icon"/>&nbsp
