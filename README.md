@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
-  <img src="https://img.shields.io/badge/IntelliJ_IDE-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=red" /
+  <img src="https://img.shields.io/badge/IntelliJ_IDE-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=FF1493" /
   
 </div>
 
