@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -63,4 +64,3 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
