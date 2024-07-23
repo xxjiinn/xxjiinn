@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Github%20Page&fontSize=90" style="opacity: 0.8;" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30)&height=200&section=header&text=Github%20Page&fontSize=90" style="opacity: 0.8;" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=53ACF7&center=true&vCenter=true&width=435&lines=😎+Welcome+to+my+Github+Profile+😎;들어와서 볼거 없음.;사실 반가움😁;No words to say🫤;" alt="Typing SVG" style="opacity: 0.8;">
   </a>
