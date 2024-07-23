@@ -1,5 +1,8 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github)](https://git.io/typing-svg)
+
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github)](https://git.io/typing-svg)
+</div>
+
 
 <!--
 **xxjiinn/xxjiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -73,5 +76,7 @@ Stats
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjiinn&layout=donut&theme=dark)](https://github.com/xxjiinn/github-readme-stats)
 
+<!--
 ---
 ![Sungjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxjiinn&show_icons=true&theme=radical)
+-->
