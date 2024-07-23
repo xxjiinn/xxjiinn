@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:228B22&height=100&section=header" style="opacity: 0.8;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:C71585&height=100&section=header" style="opacity: 0.8;" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=500&color=32CD32&center=true&vCenter=true&width=435&lines=😎+Welcome+to+my+Github+Profile+😎" alt="Typing SVG" style="opacity: 0.5;">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=😎+Welcome+to+my+Github+Profile+😎" alt="Typing SVG" style="opacity: 0.5;">
   </a>
 </div>
-
 
 ---
 
