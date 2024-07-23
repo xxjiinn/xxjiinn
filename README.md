@@ -65,5 +65,7 @@ Here are some ideas to get you started:
 
 <br>
 
+---
+Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjiinn&layout=compact)](https://github.com/xxjiinn/github-readme-stats)
