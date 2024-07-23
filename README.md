@@ -68,8 +68,9 @@ Here are some ideas to get you started:
 
 ---
 Stats
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjiinn&layout=compact&theme=dark)](https://github.com/xxjiinn/github-readme-stats)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjiinn&layout=donut&theme=dark)](https://github.com/xxjiinn/github-readme-stats)
 
 ---
