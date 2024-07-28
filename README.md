@@ -78,9 +78,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjiinn&layout=compact&theme=dark)](https://github.com/xxjiinn/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjiinn&layout=donut&theme=dark)](https://github.com/xxjiinn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjiinn&layout=donut&theme=dark&repo=BigData,22100448_OSJ_DS)](https://github.com/xxjiinn/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjiinn&layout=donut&theme=dark&v=1)](https://github.com/xxjiinn/github-readme-stats)
 
 
 <!--
