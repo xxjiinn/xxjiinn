@@ -80,6 +80,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjiinn&layout=donut&theme=dark)](https://github.com/xxjiinn/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjiinn&layout=donut&theme=dark&v=1)](https://github.com/xxjiinn/github-readme-stats)
+
+
 <!--
 ---
 ![Sungjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxjiinn&show_icons=true&theme=radical)
