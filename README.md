@@ -76,15 +76,6 @@ Here are some ideas to get you started:
 
 <br>
 
----
-<h3 align="center">⭐️ Stats ⭐️ </h3>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjiinn&layout=compact&theme=dark)](https://github.com/xxjiinn/github-readme-stats)
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjiinn&layout=donut&theme=dark&repo=BigData,22100448_OSJ_DS)](https://github.com/xxjiinn/github-readme-stats)
-
-
 
 <!--
 ---
